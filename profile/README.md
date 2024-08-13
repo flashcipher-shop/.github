@@ -1,6 +1,6 @@
 # FlashCipher - Your Virtual Digital Shop
 
-![FlashCipher Logo](flash_classic_logo.png)
+![FlashCipher Logo](https://github.com/flashcipher-shop/.github/blob/main/flash_classic_logo.png?raw=true)
 
 ## Welcome to FlashCipher!
 
@@ -30,4 +30,4 @@ At FlashCipher, we prioritize the security and privacy of our customers. Our pla
 
 Join our growing community of crypto enthusiasts and experience the future of digital finance with FlashCipher!
 
-![Footer](footer.png)
+![Footer](https://github.com/flashcipher-shop/.github/blob/main/footer.png?raw=true)
