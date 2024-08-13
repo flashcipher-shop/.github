@@ -1,6 +1,7 @@
-# FlashCipher - Your Virtual Digital Shop
-
-![FlashCipher Logo](https://github.com/flashcipher-shop/.github/blob/main/flash_classic_logo.png?raw=true)
+<div align="center">
+  <img src="https://github.com/flashcipher-shop/.github/blob/main/flash_classic_logo.png?raw=true" alt="FlashCipher Logo" width="50">
+  <h1>FlashCipher - Your Virtual Digital Shop</h1>
+</div>
 
 ## Welcome to FlashCipher!
 
@@ -24,10 +25,14 @@ At FlashCipher, we prioritize the security and privacy of our customers. Our pla
 
 ### 💼 Why Choose FlashCipher?
 
-- **Verified:** We're a trusted name in the crypto community
-- **User-Friendly:** Our platform is designed for both beginners and experts
-- **24/7 Support:** Our team is always here to assist you
+| Feature | Description |
+|---------|-------------|
+| Verified | We're a trusted name in the crypto community |
+| User-Friendly | Our platform is designed for both beginners and experts |
+| 24/7 Support | Our team is always here to assist you |
 
 Join our growing community of crypto enthusiasts and experience the future of digital finance with FlashCipher!
 
-![Footer](https://github.com/flashcipher-shop/.github/blob/main/footer.png?raw=true)
+<div align="center">
+  <img src="https://github.com/flashcipher-shop/.github/blob/main/footer.png?raw=true" alt="Footer" width="100%">
+</div>
